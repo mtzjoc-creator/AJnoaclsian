@@ -1,5 +1,5 @@
 // ── SERVICE WORKER — Nuestra Historia J&A ──
-const CACHE = "ja-historia-v2";
+const CACHE = "ja-historia-v3";
 
 // Only cache files we know exist
 const ASSETS = [
